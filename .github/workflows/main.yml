@@ -1,0 +1,35 @@
+name: update_checker
+
+on:
+  workflow_dispatch:
+    
+  schedule:
+    - cron: '* * * * *'
+
+jobs:
+  Check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Python dependencies 📦
+        run: 
+          pip install requests packaging
+
+      - name: Check Update 📡
+        id: check
+        run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          python update_checker.py
+          git diff --exit-code || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Push Changes 🔄
+        if: steps.check.outputs.changed == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.TOKEN }}
+          branch: main
+          directory: .
+          commit_message: "Push new version"
+          

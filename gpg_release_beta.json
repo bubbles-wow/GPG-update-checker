@@ -1,0 +1,246 @@
+{
+    "appid": "{47B07D71-505D-4665-AFD4-4972A30C6530}",
+    "ap": "beta",
+    "channels": [
+        {
+            "cohortname": "Public_Beta",
+            "latest": "25.6.242.1",
+            "versions": {
+                "23.2.1228.14": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/buu5xd7zis7cx4z7obwknniju4_23.2.1228.14/-47b07d71-505d-4665-afd4-4972a30c6530-_23.2.1228.14_all_cc7evq2jtnyvf2sd4l465an3sm.crx3",
+                    "sha256": "fd7ee5a288ff23a4f93496b1ce8bf2e8b4532cdec6be21e04ed3933aacbdc5b4",
+                    "path": "HPE-23.2.1228.14-CIP.exe"
+                },
+                "23.3.958.14": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/fbjoagtpnlkzvvpkur6qntcsru_23.3.958.14/-47b07d71-505d-4665-afd4-4972a30c6530-_23.3.958.14_all_ad5yg2lkjzdvfarfleabgtcnzega.crx3",
+                    "sha256": "fbd60525ad3041e13596f7e00b1dc1bf1b26ccab843b26a44b6b97ea76c106d0",
+                    "path": "HPE-23.3.958.14-CIP.exe"
+                },
+                "23.4.727.18": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/byqebegl3d52jzxbavpesy3btm_23.4.727.18/-47b07d71-505d-4665-afd4-4972a30c6530-_23.4.727.18_all_acyqhh4a4ec6s4dn2wra3cnwtsra.crx3",
+                    "sha256": "fe4aae63f4d4b59c6178f9e2d4e76319b66258e2703693678bc182cc9d11b316",
+                    "path": "HPE-23.4.727.18-CIP.exe"
+                },
+                "23.5.1015.20": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/adm53u6orjc5hykuso26h33t5mcq_23.5.1015.20/-47b07d71-505d-4665-afd4-4972a30c6530-_23.5.1015.20_all_aczuc3hah7scazgz673yfajg42mq.crx3",
+                    "sha256": "a4da271e0ed45e7a82a45cdf1b2d1edaf2a58cbbc068f229d526fc5b8cf85a2b",
+                    "path": "HPE-23.5.1015.20-CIP.exe"
+                },
+                "23.6.594.10": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/adpnxz66enhoptx3frp5lmhowvhq_23.6.594.10/-47b07d71-505d-4665-afd4-4972a30c6530-_23.6.594.10_all_acafsgbpryptjuvicm73w54ntufq.crx3",
+                    "sha256": "563e3883f190ed4590231c0361f6df3cde0237cea6349674c2c1290a9dc6a71e",
+                    "path": "HPE-23.6.594.10-CIP.exe"
+                },
+                "23.7.1766.8": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/jl5oyt76rlazxj4ocpkw7vjm2u_23.7.1766.8/-47b07d71-505d-4665-afd4-4972a30c6530-_23.7.1766.8_all_adj57vv2c6yta35dcan3fr4szwmq.crx3",
+                    "sha256": "a1f3148d0b82e8f6c7dfdfa4aa321e5f7100c1d277fe5e05a2b4194a7a8bb54d",
+                    "path": "HPE-23.7.1766.8-CIP.exe"
+                },
+                "23.8.640.11": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/acaakhavgaafzl5mf2pfsuwvazya_23.8.640.11/-47b07d71-505d-4665-afd4-4972a30c6530-_23.8.640.11_all_adw2bpfhec4d3572k2qwr6of7msa.crx3",
+                    "sha256": "f416d3e9d2a72d2f0eb66297fad0d071b25a6761fc31991d743818758e2a62c3",
+                    "path": "HPE-23.8.640.11-CIP.exe"
+                },
+                "23.9.1265.3": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/djtmizqhvttq2jrs4vshn5upva_23.9.1265.3/-47b07d71-505d-4665-afd4-4972a30c6530-_23.9.1265.3_all_oozsdkeckh5r7wnprqt3maoktq.crx3",
+                    "sha256": "d2b5e5ff53b971508a18b913d053d75774713950f43fedb300653242e5332676",
+                    "path": "HPE-23.9.1265.3-CIP.exe"
+                },
+                "23.10.697.3": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/jufdkobfjxtvr6qfcavedhcg7u_23.10.697.3/-47b07d71-505d-4665-afd4-4972a30c6530-_23.10.697.3_all_adtuweprq57zydnt7l2qmr54cziq.crx3",
+                    "sha256": "33fa4c0b956d42cdff20186c6feb8b85af596cef3ba44fb752306098e7d1ff67",
+                    "path": "HPE-23.10.697.3-CIP.exe"
+                },
+                "23.10.1298.4": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/d6ucebxthb4zywndom37tnl66e_23.10.1298.4/-47b07d71-505d-4665-afd4-4972a30c6530-_23.10.1298.4_all_koukdnbfvtlex2kxo7pvgd5m5u.crx3",
+                    "sha256": "69ac4fb972cf907de9287bc0062156dc063af5dc9c39d1229ca3780d903b72fa",
+                    "path": "HPE-23.10.1298.4-CIP.exe"
+                },
+                "23.11.819.6": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/cujtcvle4cgk2oi7w75eovrl3e_23.11.819.6/-47b07d71-505d-4665-afd4-4972a30c6530-_23.11.819.6_all_acxknde4xl7b5wurtrj4ogez67qq.crx3",
+                    "sha256": "6d6f4badc877d9deae0159f05befb1ad456335f0a97fac73a42fee69d2f14b1b",
+                    "path": "HPE-23.11.819.6-CIP.exe"
+                },
+                "23.11.1397.6": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/oriui2x2sstdelafmzdmdnbtiq_23.11.1397.6/-47b07d71-505d-4665-afd4-4972a30c6530-_23.11.1397.6_all_acl7j2x3w6f56bwmzamlm2fq5exq.crx3",
+                    "sha256": "ec66ec7f9ea4bb00d41648d0b598a4f95d4afe1ffde80048e23f21bebe37b47d",
+                    "path": "HPE-23.11.1397.6-CIP.exe"
+                },
+                "24.1.1787.4": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/ixv7a62ezuvugd6ai4riczzyv4_24.1.1787.4/-47b07d71-505d-4665-afd4-4972a30c6530-_24.1.1787.4_all_ac47fpbtfnya2bnigptkbueqksbq.crx3",
+                    "sha256": "4ae740fcf8a596cbc143e35e0f9afe0dd2830d31352e01b7ff4c9daf571f156c",
+                    "path": "HPE-24.1.1787.4-CIP.exe"
+                },
+                "24.2.217.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/acl5of7vuvtgkqnthqfmcevztybq_24.2.217.0/-47b07d71-505d-4665-afd4-4972a30c6530-_24.2.217.0_all_ad5p2gtk72fiwzloxv4bnxsvz4ka.crx3",
+                    "sha256": "008af2d69c03d57262ad39879982af65e5c3740deb1f4be20794b3981a81fa6b",
+                    "path": "HPE-24.2.217.0-CIP.exe"
+                },
+                "24.2.624.7": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/acflv3ysqfh4trmnmbfwg6whimdq_24.2.624.7/-47b07d71-505d-4665-afd4-4972a30c6530-_24.2.624.7_all_ckc5evzs4n3j5wqm3lirxj3vbe.crx3",
+                    "sha256": "37aaf05149da421ed3e465a7387e437dad4f98ae283b52b25e1d4870fb098aea",
+                    "path": "HPE-24.2.624.7-CIP.exe"
+                },
+                "24.3.642.5": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/fk6dpoj3ehifkkcbd3xrv3yfxa_24.3.642.5/-47b07d71-505d-4665-afd4-4972a30c6530-_24.3.642.5_all_guzdoadtbo4hn4b6t6htntv66i.crx3",
+                    "sha256": "2519cd67ca217be8ae4fc3ad312d08aa463bd6248359c7c02f3c9a32088deb2f",
+                    "path": "HPE-24.3.642.5-CIP.exe"
+                },
+                "24.4.458.1": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/adgakzqzkjnx3ou34evn56fypmxa_24.4.458.1/-47b07d71-505d-4665-afd4-4972a30c6530-_24.4.458.1_all_acbrxjl3wjm6skmwqb6gyk6wldka.crx3",
+                    "sha256": "fa2863f2a9a082ca840308b7bf20dece613f4056a03090ddddb897f930d1a0a3",
+                    "path": "HPE-24.4.458.1-CIP.exe"
+                },
+                "24.4.932.3": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/hi5e2o3lsju3p2khrbwtm3aibm_24.4.932.3/-47b07d71-505d-4665-afd4-4972a30c6530-_24.4.932.3_all_ad3goq4s2w765iym27wo5dmyqtea.crx3",
+                    "sha256": "551b0a4ae41f306141bca0c844de9026aa92d2e264cb103efbb209b37d4b883f",
+                    "path": "HPE-24.4.932.3-CIP.exe"
+                },
+                "24.5.760.9": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/hbyu3xsmcir4lpr472lw7rdeby_24.5.760.9/-47b07d71-505d-4665-afd4-4972a30c6530-_24.5.760.9_all_ac5wypkpt33feiyr54fpmniiqd2a.crx3",
+                    "sha256": "bf6dea6ae43a245946529a560460f5f14fb7ce7557b13261c4e33222b6dce95f",
+                    "path": "HPE-24.5.760.9-CIP.exe"
+                },
+                "24.6.755.3": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/gj2dketjmxohmzxfrn3d4urzm4_24.6.755.3/-47b07d71-505d-4665-afd4-4972a30c6530-_24.6.755.3_all_oow5d4rpc2ppfk7iy7xgiss3le.crx3",
+                    "sha256": "052f10c1907cd37c81b25affc6b32270073107a3c10d4f0c0af7dd553db74705",
+                    "path": "HPE-24.6.755.3-CIP.exe"
+                },
+                "24.7.1042.5": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/nlmaiurtmqp6p73drq5w6l426e_24.7.1042.5/-47b07d71-505d-4665-afd4-4972a30c6530-_24.7.1042.5_all_kodphmep6ewtbd7ngmlkkoo5ry.crx3",
+                    "sha256": "cbbc10e3cf0b91278e825840f8638bffacd9f338a2176fffdad66b03b3c2a7be",
+                    "path": "HPE-24.7.1042.5-CIP.exe"
+                },
+                "24.8.469.9": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/ac7polqeg4q7rcruwiyw26igctaa_24.8.469.9/-47b07d71-505d-4665-afd4-4972a30c6530-_24.8.469.9_all_adztkfy5zfjldnrewwqlnrw4toxa.crx3",
+                    "sha256": "37792a64acc04f90db14181f1fc58f540342825118638449756ef6e9c6cd7bce",
+                    "path": "HPE-24.8.469.9-CIP.exe"
+                },
+                "24.8.1001.12": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/ad4j36wnfphs5qe66nkdiol5lo4a_24.8.1001.12/-47b07d71-505d-4665-afd4-4972a30c6530-_24.8.1001.12_all_adppoode5tlpvzlneivgdbi2pjlq.crx3",
+                    "sha256": "aebff6c98f57d6d692db0448b04afd1e78d87149c2c0b50f47dbfd9d54143124",
+                    "path": "HPE-24.8.1001.12-CIP.exe"
+                },
+                "24.9.1554.1": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/adw2azbdf7a53lujmcx6hdgqh3fq_24.9.1554.1/-47b07d71-505d-4665-afd4-4972a30c6530-_24.9.1554.1_all_irsqsaw3dovrnopwx6htzhdrki.crx3",
+                    "sha256": "3d363031f0ec97b38c8a1081f25e3cdd4c85aa1048ad5ee0b75ee8a1102c93f4",
+                    "path": "HPE-24.9.1554.1-CIP.exe"
+                },
+                "24.10.1176.6": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/d7afxzn2efnwkoarlkilndq3aa_24.10.1176.6/-47b07d71-505d-4665-afd4-4972a30c6530-_24.10.1176.6_all_acw3ytj7jpwofo3xp7qg5yherxda.crx3",
+                    "sha256": "7e3bb98d853d2864c20060414f2a0630191473436ce6dec13f9367ea4e9e4a80",
+                    "path": "HPE-24.10.1176.6-CIP.exe"
+                },
+                "24.11.76.6": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/acxe7rfbqeg25gmn4bbviwku4uta_24.11.76.6/-47b07d71-505d-4665-afd4-4972a30c6530-_24.11.76.6_all_blnplyx6f2ozp7ghsp6chwg53q.crx3",
+                    "sha256": "f6c876ffd2974dbf3b24989216e52cded97496a66316710b17aa995d9afdc16d",
+                    "path": "HPE-24.11.76.6-CIP.exe"
+                },
+                "24.12.881.1": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/iuvqnduwfwaks2nankr44ltk4y_24.12.881.1/-47b07d71-505d-4665-afd4-4972a30c6530-_24.12.881.1_all_eu67gbugpf2ueqg4qkzsyosnbi.crx3",
+                    "sha256": "f859354745402bc13a51b4ddae42491a60a2b38d25a022e99fbbb5f586d36397",
+                    "path": "HPE-24.12.881.1-CIP.exe"
+                },
+                "25.1.1296.3": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/ac447jh5mug7k52seibfws2z3xuq_25.1.1296.3/-47b07d71-505d-4665-afd4-4972a30c6530-_25.1.1296.3_all_m6oyt2kjy6thmatrwoqzz3345q.crx3",
+                    "sha256": "90bdb78de52f65f4d2fea49b5aeed1297d70e86cbb873ff1ca621b8314a16afe",
+                    "path": "HPE-25.1.1296.3-CIP.exe"
+                },
+                "25.2.675.2": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/dj6oivokur2d2i7g6fhsin5miu_25.2.675.2/-47b07d71-505d-4665-afd4-4972a30c6530-_25.2.675.2_all_ndoo7pb5zcze4vjy2fyuz66gty.crx3",
+                    "sha256": "6664be4f6d75710f0fa080da5dfb669d2be8885e1b9d4844d315666f3bc63af5",
+                    "path": "HPE-25.2.675.2-CIP.exe"
+                },
+                "25.3.22.5": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/adskk35b6wmgerl5kf3sdvosi56q_25.3.22.5/-47b07d71-505d-4665-afd4-4972a30c6530-_25.3.22.5_all_acp4ewa7rz2ley5jyafrmuptenwq.crx3",
+                    "sha256": "6407553a3497dd37c73e1cd2854f2def1d8012b9ba4988c4ea848811294b42ae",
+                    "path": "HPE-25.3.22.5-CIP.exe",
+                    "cohortname": "Public_Beta"
+                },
+                "25.3.338.9": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/p6zentw65rhoarmkls23bdnhgy_25.3.338.9/-47b07d71-505d-4665-afd4-4972a30c6530-_25.3.338.9_all_ad52cpfogx7m7v7xut3fjskmev3q.crx3",
+                    "sha256": "950d6dcb0026d368e311c89a3d5ab3a5427c52acdbe1c745c26a9f2de5d45377",
+                    "path": "HPE-25.3.338.9-CIP.exe"
+                },
+                "25.3.1000.10": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/aclt6jnmqjflai2ymg6xnshdmpzq_25.3.1000.10/-47b07d71-505d-4665-afd4-4972a30c6530-_25.3.1000.10_all_ac7cvs3mtfe45sgbtgjcl6dorbxq.crx3",
+                    "sha256": "5a64e73b61a1dbc09cd244acd7776a66edda0b248d40668385b54293fea5c3f8",
+                    "path": "HPE-25.3.1000.10-CIP.exe"
+                },
+                "25.4.203.3": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/eppw3lfmmzfbmwjcea2jl4dhai_25.4.203.3/-47b07d71-505d-4665-afd4-4972a30c6530-_25.4.203.3_all_mqid3on3724gxy3ees6fabd64y.crx3",
+                    "sha256": "4f505ded396eb6d7de375c7960f9d652824a6f00ba6cd5941a228310eb7b75ba",
+                    "path": "HPE-25.4.203.3-CIP.exe"
+                },
+                "25.4.853.4": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/acz7yh5lpkftt23tybrjqdrya3wa_25.4.853.4/-47b07d71-505d-4665-afd4-4972a30c6530-_25.4.853.4_all_adsoy57bv65nwmxo2xlah7v3wt3q.crx3",
+                    "sha256": "980925aa6835084e0b86c37b0b2c99d5c978c6cd0cc9eb6d64430435b771cfa5",
+                    "path": "HPE-25.4.853.4-CIP.exe"
+                },
+                "25.5.103.3": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/adzrom7i2uz3tfvw6tj6jkrfbc7a_25.5.103.3/-47b07d71-505d-4665-afd4-4972a30c6530-_25.5.103.3_all_bufimf4k74axi24ln2i7wa3bna.crx3",
+                    "sha256": "ca7f65f92366e2a4e3217bdaea5515eb8d636a33cf83313fa4f8ecf2e5f61d9e",
+                    "path": "HPE-25.5.103.3-CIP.exe"
+                },
+                "25.5.766.1": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/ac2zo46neggfxhprkeu34cuf4rwq_25.5.766.1/-47b07d71-505d-4665-afd4-4972a30c6530-_25.5.766.1_all_jqdptrou6u7nxtptrlq4s4bsni.crx3",
+                    "sha256": "3d42b53f13b73852a94de815de29afe2eb4aa3351fc4b6a308120499701c35c7",
+                    "path": "HPE-25.5.766.1-CIP.exe"
+                },
+                "25.5.1307.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/ce5uv55ow2ikcdfvhetl7hvs2m_25.5.1307.0/-47b07d71-505d-4665-afd4-4972a30c6530-_25.5.1307.0_all_adqmtkcm7gxnzmn6q523bvmdylfq.crx3",
+                    "sha256": "e83ea9d98ef0a905cf7e83fbf7ebce062773482b1b3f8245a1ad0c610cdcf40d",
+                    "path": "HPE-25.5.1307.0-CIP.exe"
+                },
+                "25.6.242.1": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/lcgcyla44lkizxmyidxnrhmhni_25.6.242.1/-47b07d71-505d-4665-afd4-4972a30c6530-_25.6.242.1_all_adkn3q56w5ludnxqpggimicaf7nq.crx3",
+                    "sha256": "e6b96531336f461c8d347db72ee9aa255749b48a19308c97dfe9acf62e7ccfe7",
+                    "path": "HPE-25.6.242.1-CIP.exe"
+                }
+            }
+        },
+        {
+            "cohortname": "2025-01.x Experiment",
+            "latest": "25.5.796.1",
+            "versions": {
+                "25.4.885.2": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/acaivygq26xtxvpozeso6vltzyqq_25.4.885.2/-47b07d71-505d-4665-afd4-4972a30c6530-_25.4.885.2_all_acx7sqjvm5xv7ytriqsf6ks75laa.crx3",
+                    "sha256": "16a4efa0dd8cdca59a7f22a08d9a67a526e17d48178eb7086c22b8e3a9d758aa",
+                    "path": "HPE-25.4.885.2-CIP.exe"
+                },
+                "25.5.106.1": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/ac272ovxm5qskfi2bwxmrct5c5jq_25.5.106.1/-47b07d71-505d-4665-afd4-4972a30c6530-_25.5.106.1_all_ac4uojos3o2x3mrxxnlwydscmkua.crx3",
+                    "sha256": "ca3aac2b91c52584692da6ef7d5c9407b1e4861cea47522a3ee8bf6a9f2b7ad2",
+                    "path": "HPE-25.5.106.1-CIP.exe"
+                },
+                "25.5.796.1": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/acv6k7x7t4nu3ln3bwzwd33ccova_25.5.796.1/-47b07d71-505d-4665-afd4-4972a30c6530-_25.5.796.1_all_defgtyg7yn5odtjvjn2zsgute4.crx3",
+                    "sha256": "9cd17d429f94bcacc1e62d22bb365ef3a223ebeb6733e5389dff598bc6156d78",
+                    "path": "HPE-25.5.796.1-CIP.exe"
+                }
+            }
+        },
+        {
+            "cohortname": "2025-06.a Control",
+            "latest": "25.5.1307.1",
+            "versions": {
+                "25.5.1307.1": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/ls6wtxrqhzikqpdua7bpfniap4_25.5.1307.1/-47b07d71-505d-4665-afd4-4972a30c6530-_25.5.1307.1_all_ijv7gok7xcqq3ou2rtlzyebrai.crx3",
+                    "sha256": "6231557937c620000e82df4e94bd9b60eedd8ce854ce25339f8ba31277dde0d8",
+                    "path": "HPE-25.5.1307.1-CIP.exe"
+                }
+            }
+        },
+        {
+            "cohortname": "2025-06.a Experiment",
+            "latest": "25.6.242.0",
+            "versions": {
+                "25.6.242.0": {
+                    "url": "http://redirector.gvt1.com/edgedl/release2/Play/act6spa4xyvpxktci2bturhpshva_25.6.242.0/-47b07d71-505d-4665-afd4-4972a30c6530-_25.6.242.0_all_hwverybrfb66btrwmxdlvonfuy.crx3",
+                    "sha256": "55f8450bf930201bce7b81151302935022d6b088c8db4034e4b9f6ef671667e5",
+                    "path": "HPE-25.6.242.0-CIP.exe"
+                }
+            }
+        }
+    ]
+}

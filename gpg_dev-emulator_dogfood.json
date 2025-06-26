@@ -1,0 +1,197 @@
+{
+    "appid": "{c601e9a4-03b0-4188-843e-80058bf16ef9}",
+    "ap": "dogfood",
+    "channels": [
+        {
+            "cohortname": "Dogfood",
+            "latest": "25.6.788.0",
+            "versions": {
+                "23.1.1301.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/mrtudwyj3ugm667wjbwaqxsnpy_23.1.1301.0/-c601e9a4-03b0-4188-843e-80058bf16ef9-_23.1.1301.0_all_acl5adhgxqb3zp6dwknlckaxwp3a.crx3",
+                    "sha256": "621e871660be9f2a3056951581ce753e79d24566f4c4ca75b882e76764694ec8",
+                    "path": "HPE-23.1.1301.0-Dev.msi"
+                },
+                "23.3.165.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/lzwm55w3mpuz3v4otr4zzexcii_23.3.165.0/-c601e9a4-03b0-4188-843e-80058bf16ef9-_23.3.165.0_all_b7zgp2pbxbmcqxsqas7zefl5fu.crx3",
+                    "sha256": "cb84b0a6122ce64d3ae15c721920caf599855bf3d3db5b276eac726674192c6a",
+                    "path": "HPE-23.3.165.0-CIP_3pdev.exe"
+                },
+                "23.3.582.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/k5chsza4x6knfqq2medbs462na_23.3.582.0/-c601e9a4-03b0-4188-843e-80058bf16ef9-_23.3.582.0_all_acwnxiaru2czxaxmvovlph3ozosa.crx3",
+                    "sha256": "badb054e78bbfb014334af5d3d6ce88bc7f8729933616f7a9e20727210f748ad",
+                    "path": "HPE-23.3.582.0-CIP_3pdev.exe"
+                },
+                "23.3.637.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/acvlterlxqjyhepvsk64tvfxerhq_23.3.637.0/-c601e9a4-03b0-4188-843e-80058bf16ef9-_23.3.637.0_all_nqz6ektvjs33a6ekf2z27p6bhq.crx3",
+                    "sha256": "9963c982a8fbab173f5f7755c5fa7740fa85bb100f6af0fa3c54619eea881e27",
+                    "path": "HPE-23.3.637.0-CIP_3pdev.exe"
+                },
+                "23.3.958.7": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/ac6nqept5gwgk2fetuwkgxuy3q4q_23.3.958.7/-c601e9a4-03b0-4188-843e-80058bf16ef9-_23.3.958.7_all_al3t4swtrt5tghltcdefstlwri.crx3",
+                    "sha256": "bcdc9897ddc46622e0474cd21f0ef2d9fceaf52d1a8c0f37cf08d298d44d87bb",
+                    "path": "HPE-23.3.958.7-CIP_3pdev.exe"
+                },
+                "23.3.1358.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/mcysjw32mvlxisly555ftzzxim_23.3.1358.0/-c601e9a4-03b0-4188-843e-80058bf16ef9-_23.3.1358.0_all_accmpguw3mbj5veimbubalcxpesq.crx3",
+                    "sha256": "e33261a1970a41189ff321f26f3670a2b79f3cc7fe4ddf564976491d017580cf",
+                    "path": "HPE-23.3.1358.0-CIP_3pdev.exe"
+                },
+                "23.5.1015.19": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/adgwve7rmhp72ztyvrb6igavj2la_23.5.1015.19/-c601e9a4-03b0-4188-843e-80058bf16ef9-_23.5.1015.19_all_niigknez7syprt6mxolyubcxba.crx3",
+                    "sha256": "76fbc76a3c6b70d5b7b78374476d0c3f320fb81506c509cc88792cb72be135c3",
+                    "path": "HPE-23.5.1015.19-CIP_3pdev.exe"
+                },
+                "23.6.594.10": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/okevm3rbezjzc277ibjr5eqrci_23.6.594.10/-c601e9a4-03b0-4188-843e-80058bf16ef9-_23.6.594.10_all_adzpd5r4txziwec3mzmajdpmpo3a.crx3",
+                    "sha256": "f578323dd00fd867a0606bab903672b079630e59283865c204f2576dd74fd06f",
+                    "path": "HPE-23.6.594.10-CIP_3pdev.exe"
+                },
+                "23.8.640.10": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/adv77tjmjfxu3ee6pxtyflumzlra_23.8.640.10/-c601e9a4-03b0-4188-843e-80058bf16ef9-_23.8.640.10_all_adysvgl6os3ikfskr4wtlhht4j5a.crx3",
+                    "sha256": "1cd325e7a464384e8e30418203b904b70bb1422208d48a3a751f4a1de07708ed",
+                    "path": "HPE-23.8.640.10-CIP_3pdev_prod.exe"
+                },
+                "23.9.1265.5": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/acuqdrdgpbyl7vlmiy36afqvbaeq_23.9.1265.5/-c601e9a4-03b0-4188-843e-80058bf16ef9-_23.9.1265.5_all_acea4hq2wugp7fobxuaokqgfuflq.crx3",
+                    "sha256": "6377135a2a118b34a5167214eaed4d16218b786da617140c2c6cfc7de85223b0",
+                    "path": "HPE-23.9.1265.5-CIP_3pdev_prod.exe"
+                },
+                "23.10.1298.4": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/nsxskui7hsay352wdx7ivzfmim_23.10.1298.4/-c601e9a4-03b0-4188-843e-80058bf16ef9-_23.10.1298.4_all_ad7n3zh23mlofdu452bdvltgvu.crx3",
+                    "sha256": "df455511abc4f13e031b2391ee1f6712e51a0cc0dd6816ee01d2b4d5efbed614",
+                    "path": "HPE-23.10.1298.4-CIP_3pdev_prod.exe"
+                },
+                "23.11.1397.6": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/j4543s6eixwkwafkq7kg4sf5tm_23.11.1397.6/-c601e9a4-03b0-4188-843e-80058bf16ef9-_23.11.1397.6_all_byyjtonywu4gknaiwgrutrlkdq.crx3",
+                    "sha256": "6138f64f2fc72286b5c699835612ddb87617cb8c225b0cccdc2d8b799b29d43e",
+                    "path": "HPE-23.11.1397.6-CIP_3pdev_prod.exe"
+                },
+                "24.2.217.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/jix2vrizxnmk47c6mjfydszhva_24.2.217.0/-c601e9a4-03b0-4188-843e-80058bf16ef9-_24.2.217.0_all_adu7sb2wuohwjhdgomr3kvumbvga.crx3",
+                    "sha256": "77125f68a944312596ef384d1029fc0b1cf35c4eeb7fe3af6dcf2ac0bcb8e9a4",
+                    "path": "HPE-24.2.217.0-CIP_3pdev_prod.exe"
+                },
+                "24.2.624.7": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/acwgdvtcoakp453bymxjeheorw6a_24.2.624.7/-c601e9a4-03b0-4188-843e-80058bf16ef9-_24.2.624.7_all_acf64gxziyb3dq5r6iopgoz4hlva.crx3",
+                    "sha256": "29b355ea5c579b756835543273b24a7e8f1da8bea30aafa119e8017f75b882db",
+                    "path": "HPE-24.2.624.7-CIP_3pdev_prod.exe"
+                },
+                "24.3.642.1": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/e7uuyszpmvi4cnhcvun4wlhhtq_24.3.642.1/-c601e9a4-03b0-4188-843e-80058bf16ef9-_24.3.642.1_all_adysfajfhucufykksx7d4hioafwa.crx3",
+                    "sha256": "14967ca26cda2fd35335fc785a508977c1d3678a766771865815fdd84d2eb4ef",
+                    "path": "HPE-24.3.642.1-CIP_3pdev_prod.exe"
+                },
+                "24.4.458.1": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/ii66kizyhdf3jrhwb4rh7dxwia_24.4.458.1/-c601e9a4-03b0-4188-843e-80058bf16ef9-_24.4.458.1_all_accsnbivriewvah3swmzjyi3j3cq.crx3",
+                    "sha256": "b38dc19b05b0de8f73b215b5c3294a6bc738c18cb7808ad4e951304cbb0efcf3",
+                    "path": "HPE-24.4.458.1-CIP_3pdev_prod.exe"
+                },
+                "24.5.178.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/ac6jsbdsgys7orbe2rtet6a2nibq_24.5.178.0/-c601e9a4-03b0-4188-843e-80058bf16ef9-_24.5.178.0_all_bxcmu6o7w6uikeexe7lp6hvsqy.crx3",
+                    "sha256": "7465b7c9102251f9486895fb1ba06d8c4cb507f99233ae7ef3ccd402f8215ecd",
+                    "path": "HPE-24.5.178.0-CIP_3pdev_prod.exe"
+                },
+                "24.5.760.6": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/adgvlyrwimytbp4cgw44kpb4q4ha_24.5.760.6/-c601e9a4-03b0-4188-843e-80058bf16ef9-_24.5.760.6_all_m564lfdqczdgke26fgt7gk4hk4.crx3",
+                    "sha256": "223c2f6bd1610068ff4266df2cb45614df21fc79565454b758900e7f557b8f97",
+                    "path": "HPE-24.5.760.6-CIP_3pdev_prod.exe"
+                },
+                "24.6.902.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/hbhgmzchd53yxc4ahenyluc63i_24.6.902.0/-c601e9a4-03b0-4188-843e-80058bf16ef9-_24.6.902.0_all_amtmzufa6ukqbghuggyar3irym.crx3",
+                    "sha256": "30352f0fef7a16c98cbd67cd8bfe5cfc67f1d7eac6bd3531a4b710e77037d9a8",
+                    "path": "HPE-24.6.902.0-CIP_3pdev_prod.exe"
+                },
+                "24.7.1042.5": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/nootememeczd4v2xr4k4x5qhai_24.7.1042.5/-c601e9a4-03b0-4188-843e-80058bf16ef9-_24.7.1042.5_all_cdw22ub3qijmzoigjbr2jc2zga.crx3",
+                    "sha256": "6ed4f8f70468c155d01ce1e3743bc9c709183642524d1db642771ac2ef58a17e",
+                    "path": "HPE-24.7.1042.5-CIP_3pdev_prod.exe"
+                },
+                "24.8.469.6": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/mwmgd2ynuk7xe3yvrdfcdxffji_24.8.469.6/-c601e9a4-03b0-4188-843e-80058bf16ef9-_24.8.469.6_all_aduzs7hr2um5zosuutq4tlvpkcjq.crx3",
+                    "sha256": "bd026766ebc4626fc4af6039a3d8da36564ac39ed1c23ac9d7a3c668f53a3597",
+                    "path": "HPE-24.8.469.6-CIP_3pdev_prod.exe"
+                },
+                "24.8.1001.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/lr2bimf24vxfmf54yvqanmekyu_24.8.1001.0/-c601e9a4-03b0-4188-843e-80058bf16ef9-_24.8.1001.0_all_acqif6qbr27jcchqv7ygxqugdvgq.crx3",
+                    "sha256": "a5f5209aeca30f6280e0f50847b06453d663879671e28642347514940c250c3b",
+                    "path": "HPE-24.8.1001.0-CIP_3pdev_prod.exe"
+                },
+                "24.9.294.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/jvusa64trhfrbmu2pdd4tng3du_24.9.294.0/-c601e9a4-03b0-4188-843e-80058bf16ef9-_24.9.294.0_all_d4t7gfzrk3g54pw37stpj3ytze.crx3",
+                    "sha256": "db0a147d384756b8433b21907795fcc1616c5081d060a799d9a07bff5cb79452",
+                    "path": "HPE-24.9.294.0-CIP_3pdev_prod.exe"
+                },
+                "24.9.1554.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/acs6mmxmkw2vwfdrl4poidooih7q_24.9.1554.0/-c601e9a4-03b0-4188-843e-80058bf16ef9-_24.9.1554.0_all_adkihfemqjezase46ijwdksci33q.crx3",
+                    "sha256": "acdc784848111cc80d74c6833cc903ca7df445418460fb76e6ea87f94a1fc660",
+                    "path": "HPE-24.9.1554.0-CIP_3pdev_prod.exe"
+                },
+                "24.10.538.6": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/gow7lpauqr34r6x4rc74xrbih4_24.10.538.6/-c601e9a4-03b0-4188-843e-80058bf16ef9-_24.10.538.6_all_ac5ydhiigozvuvwobwne27x2lkwq.crx3",
+                    "sha256": "67b95018c4a7864e68befa6a9ccc4f9e94cf581fcfbbc88d53b5a62f36e54e07",
+                    "path": "HPE-24.10.538.6-CIP_3pdev_prod.exe"
+                },
+                "24.11.76.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/iuhrb2t5fnd2uaeql5ov3ubiga_24.11.76.0/-c601e9a4-03b0-4188-843e-80058bf16ef9-_24.11.76.0_all_ac56cat6jvbeuzoc66fjg4cswpva.crx3",
+                    "sha256": "2c563a45c8126290bb87a0d7e85af4ee3e515912620e09e6b1883a01f0d5efa2",
+                    "path": "HPE-24.11.76.0-CIP_3pdev_prod.exe"
+                },
+                "24.12.881.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/f7qxzysdznptziesrbdavuhfby_24.12.881.0/-c601e9a4-03b0-4188-843e-80058bf16ef9-_24.12.881.0_all_pmdsixoycwakno3bl2fyictxy4.crx3",
+                    "sha256": "b406bc56dfd065d14e17b9bb34abaa4e3b989a502ff35302dfe7bc8a5ef25978",
+                    "path": "HPE-24.12.881.0-CIP_3pdev_prod.exe"
+                },
+                "25.1.52.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/acs3ezaohw2puccz6tv45c46pyra_25.1.52.0/-c601e9a4-03b0-4188-843e-80058bf16ef9-_25.1.52.0_all_acuk4iyn2m5yteqg7tyy54h35yua.crx3",
+                    "sha256": "c99b6309f1cb19f985d9c2cb675fd95cfb60fa830754e4c44801a64156d9b737",
+                    "path": "HPE-25.1.52.0-CIP_3pdev_prod.exe"
+                },
+                "25.3.22.5": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/adr2glra5kghkvnrqreiuuvmyuba_25.3.22.5/-c601e9a4-03b0-4188-843e-80058bf16ef9-_25.3.22.5_all_ad37wnhy6oq4tkbmg74devvsnvaa.crx3",
+                    "sha256": "40224672d91e2757fc0287159e8912c8471ad27edea483f0e39bf17582513957",
+                    "path": "HPE-25.3.22.5-CIP_3pdev_prod.exe"
+                },
+                "25.3.1000.6": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/aybwka33txotpl5r6vlfbeg55i_25.3.1000.6/-c601e9a4-03b0-4188-843e-80058bf16ef9-_25.3.1000.6_all_nehpmiko46a2aofzmmytn2pr4i.crx3",
+                    "sha256": "98b8873608fbebe8da7cc4a9bf057c54f563c021d2598d05a12c1a4ff12ddc8f",
+                    "path": "HPE-25.3.1000.6-CIP_3pdev_prod.exe"
+                },
+                "25.4.201.3": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/aqt3qhoify7c24ea4bxrqjcpti_25.4.201.3/-c601e9a4-03b0-4188-843e-80058bf16ef9-_25.4.201.3_all_mdnrjl3gqamahg4kuwadki2fvu.crx3",
+                    "sha256": "bee9605404a972e799ca94ab5766a5570791c76b231e6dcd81f8f2e7af19ac4d",
+                    "path": "HPE-25.4.201.3-CIP_3pdev_prod.exe"
+                },
+                "25.5.103.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/acnrolo7qftu6q3gq6fhdk7n2xxq_25.5.103.0/-c601e9a4-03b0-4188-843e-80058bf16ef9-_25.5.103.0_all_fyorhbucowsmkroiw532cvas2u.crx3",
+                    "sha256": "ebd3fbc3f38afcaa5c5523be2895541d732e2e0001d99b6ce6dc605542722d46",
+                    "path": "HPE-25.5.103.0-CIP_3pdev_prod.exe"
+                },
+                "25.5.766.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/adylw6hja7jixfirls2istw6wiua_25.5.766.0/-c601e9a4-03b0-4188-843e-80058bf16ef9-_25.5.766.0_all_cove3jpvv7ynuncifismkpotfu.crx3",
+                    "sha256": "614ccc2e17a9589e4421646f0bb1161154db82d079fb61f5ba625ca2bcd842f6",
+                    "path": "HPE-25.5.766.0-CIP_3pdev_prod.exe"
+                },
+                "25.5.1307.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/nb3khxqpbpbvaziauikt32g73m_25.5.1307.0/-c601e9a4-03b0-4188-843e-80058bf16ef9-_25.5.1307.0_all_adymwklk3g7h6nqqi4ltothlkfta.crx3",
+                    "sha256": "a6ba647ce6c87839c88970eed57b14fdf16250af89d0cd71f381febe6a3e7165",
+                    "path": "HPE-25.5.1307.0-CIP_3pdev_prod.exe"
+                },
+                "25.6.242.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/lpuqlpa3tyngvzenjhtghnrhw4_25.6.242.0/-c601e9a4-03b0-4188-843e-80058bf16ef9-_25.6.242.0_all_ie4cpkqs2hwegnnnbrbi56nbme.crx3",
+                    "sha256": "a9c28ec8559da1e82da4f30df28c145b1b06af02f2d061758168cff280617b3a",
+                    "path": "HPE-25.6.242.0-CIP_3pdev_prod.exe"
+                },
+                "25.6.532.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/kbxy5h6pjnptgop7vsvzdthw7u_25.6.532.0/-c601e9a4-03b0-4188-843e-80058bf16ef9-_25.6.532.0_all_adnbgxknoqhipwvdtab4fkemtfgq.crx3",
+                    "sha256": "c722ca4d84f61d716f92c1d20cb8bc9670ed0fcdd145ca3553a3a581fc6aebdf",
+                    "path": "HPE-25.6.532.0-CIP_3pdev_prod.exe"
+                },
+                "25.6.788.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/bhopurt7rxwmhu5wzqbu7qw32m_25.6.788.0/-c601e9a4-03b0-4188-843e-80058bf16ef9-_25.6.788.0_all_adpyen6xdoljazx6c3w3rg3jj5qq.crx3",
+                    "sha256": "9c011dcce9f613963859bb7ba54e8aaba8aa73c254aa71f472ac7056544619d9",
+                    "path": "HPE-25.6.788.0-CIP_3pdev_prod.exe"
+                }
+            }
+        }
+    ]
+}
