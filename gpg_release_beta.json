@@ -608,6 +608,17 @@
                     "path": "HPE-25.10.130.2-CIP.exe"
                 }
             }
+        },
+        {
+            "cohortname": "2025-10.a Control",
+            "latest": "25.9.1109.2",
+            "versions": {
+                "25.9.1109.2": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/btnohqwlq45fjw4otajmm3o6uu_25.9.1109.2/-47b07d71-505d-4665-afd4-4972a30c6530-_25.9.1109.2_all_adiwttyfmkrkwvr3zehctknmdpma.crx3",
+                    "sha256": "af9c11032b4ca04a36fb53aaaeec14f0b0edd54f9eb28ad04ffa22f519c54bf9",
+                    "path": "HPE-25.9.1109.2-CIP.exe"
+                }
+            }
         }
     ]
 }
