@@ -681,12 +681,17 @@
         },
         {
             "cohortname": "2025-10.d Control",
-            "latest": "25.10.724.1",
+            "latest": "25.10.724.2",
             "versions": {
                 "25.10.724.1": {
                     "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/isswnm7c3rtpdcmoi5kixq76eu_25.10.724.1/-47b07d71-505d-4665-afd4-4972a30c6530-_25.10.724.1_all_d4kco6tpssnsoixlra6wjuy64m.crx3",
                     "sha256": "aa123f1f07312a38e554252d9204e67f006e06e35f11a533d56a9a1be1108ab7",
                     "path": "HPE-25.10.724.1-CIP.exe"
+                },
+                "25.10.724.2": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/mkdkvejsqkq45fggcolagakve4_25.10.724.2/-47b07d71-505d-4665-afd4-4972a30c6530-_25.10.724.2_all_adbsvvxgfhc63iu3kzkaecx7vpza.crx3",
+                    "sha256": "2caf6798cfc62cba7942f896afc0f52e21cae71dd95e85dbcfc3a63076bd3fad",
+                    "path": "HPE-25.10.724.2-CIP.exe"
                 }
             }
         },
