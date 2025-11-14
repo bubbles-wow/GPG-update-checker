@@ -739,7 +739,7 @@
         },
         {
             "cohortname": "2025-11.a Control",
-            "latest": "25.10.974.3",
+            "latest": "25.11.113.5",
             "versions": {
                 "25.10.974.2": {
                     "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/acmxye7nrgzj7psjm4f3tvjmapia_25.10.974.2/-47b07d71-505d-4665-afd4-4972a30c6530-_25.10.974.2_all_acmc3gpy4x3ucwxpmgzvkrl7vmaq.crx3",
@@ -750,6 +750,11 @@
                     "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/adcrcwkecrpyrpsdkgse6rc4jyhq_25.10.974.3/-47b07d71-505d-4665-afd4-4972a30c6530-_25.10.974.3_all_adhfpnmoo4mmwf3l5mx55yhwtyha.crx3",
                     "sha256": "9732af53413fdb3aea0e17efc6fbdb5b632baa40a7c88e6a713ceeb815ddd2bc",
                     "path": "HPE-25.10.974.3-CIP.exe"
+                },
+                "25.11.113.5": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/gitoiuexrvuxiiqxgyw2z6uese_25.11.113.5/-47b07d71-505d-4665-afd4-4972a30c6530-_25.11.113.5_all_ad3sybod46ngsgx2t7ewi6zlo7ca.crx3",
+                    "sha256": "3c0b2bb07e440e1885dd4149c068e9340401a4276d32a527102de77f5b337c74",
+                    "path": "HPE-25.11.113.5-CIP.exe"
                 }
             }
         }
