@@ -778,6 +778,17 @@
                     "path": "HPE-25.11.113.7-CIP.exe"
                 }
             }
+        },
+        {
+            "cohortname": "2025-11.c Experiment",
+            "latest": "25.11.541.0",
+            "versions": {
+                "25.11.541.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/acqc4ioo7lm7vrc63ud5ryq4a65a_25.11.541.0/-47b07d71-505d-4665-afd4-4972a30c6530-_25.11.541.0_all_adnywvtwrkctji7iv6nwqhswm3na.crx3",
+                    "sha256": "b8afc2057988c788968215d5881975337618daada424294caf05be0fc79a8c82",
+                    "path": "HPE-25.11.541.0-CIP.exe"
+                }
+            }
         }
     ]
 }
