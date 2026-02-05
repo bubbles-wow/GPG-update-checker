@@ -946,12 +946,17 @@
         },
         {
             "cohortname": "2026-01.c Control",
-            "latest": "26.1.305.2",
+            "latest": "26.1.305.3",
             "versions": {
                 "26.1.305.2": {
                     "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/lsyd32ax7hvfbdydjm5loigsq4_26.1.305.2/-47b07d71-505d-4665-afd4-4972a30c6530-_26.1.305.2_all_cus4dchmjjecaeadfryk2bfsv4.crx3",
                     "sha256": "dab0452463b5128d48dcc25864d850106723ab8c55b4487d4ca7bcb76f5ee0af",
                     "path": "HPE-26.1.305.2-CIP.exe"
+                },
+                "26.1.305.3": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/acwvosfv5c2yovufy7et5twnjqja_26.1.305.3/-47b07d71-505d-4665-afd4-4972a30c6530-_26.1.305.3_all_adie6v6mrdzqo4hgwh2elw6xfieq.crx3",
+                    "sha256": "8a7c9fd7ad6dce078913024ec137a9198c1c00e080ca4d119526fc68a158f596",
+                    "path": "HPE-26.1.305.3-CIP.exe"
                 }
             }
         }
