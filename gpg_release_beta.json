@@ -1060,6 +1060,17 @@
                     "path": "HPE-26.2.697.1-CIP.exe"
                 }
             }
+        },
+        {
+            "cohortname": "2026-03.a Control",
+            "latest": "26.2.961.2",
+            "versions": {
+                "26.2.961.2": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/acua7nlnuecm7v3byplg34a2svza_26.2.961.2/-47b07d71-505d-4665-afd4-4972a30c6530-_26.2.961.2_all_an77nyfxayx3ypyvblqwcqc76a.crx3",
+                    "sha256": "43a6ec2d1f6494ecb785815e121b52254fdd0d4d2bf049fbcafb111a3ddadef7",
+                    "path": "HPE-26.2.961.2-CIP.exe"
+                }
+            }
         }
     ]
 }
