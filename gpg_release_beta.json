@@ -4,7 +4,7 @@
     "channels": [
         {
             "cohortname": "Public_Beta",
-            "latest": "26.3.725.2",
+            "latest": "26.3.1007.1",
             "versions": {
                 "23.2.1228.14": {
                     "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/buu5xd7zis7cx4z7obwknniju4_23.2.1228.14/-47b07d71-505d-4665-afd4-4972a30c6530-_23.2.1228.14_all_cc7evq2jtnyvf2sd4l465an3sm.crx3",
@@ -346,6 +346,11 @@
                     "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/ac6laikidmbaxmdpjmspwwv5wupa_26.3.725.2/-47b07d71-505d-4665-afd4-4972a30c6530-_26.3.725.2_all_p7dyfhwahuk266nsj6tle5s5h4.crx3",
                     "sha256": "6125bec91003a187d9adb89cfbc72f277d21acd8bf072805ab41d5a465174d0a",
                     "path": "HPE-26.3.725.2-CIP.exe"
+                },
+                "26.3.1007.1": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/acgzez7eutvsctkdofh5rz24ocyq_26.3.1007.1/-47b07d71-505d-4665-afd4-4972a30c6530-_26.3.1007.1_all_c37qmsbmo2evy3nngmxn4f4oh4.crx3",
+                    "sha256": "3e8e3dd0589e9c3497b98c650f5b04044e4194501b60398d063874ebfe602e4b",
+                    "path": "HPE-26.3.1007.1-CIP.exe"
                 }
             }
         },
