@@ -4,7 +4,7 @@
     "channels": [
         {
             "cohortname": "Dogfood",
-            "latest": "26.8.237.0",
+            "latest": "26.7.1101.2",
             "versions": {
                 "23.1.1301.0": {
                     "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/mrtudwyj3ugm667wjbwaqxsnpy_23.1.1301.0/-c601e9a4-03b0-4188-843e-80058bf16ef9-_23.1.1301.0_all_acl5adhgxqb3zp6dwknlckaxwp3a.crx3",
@@ -320,6 +320,11 @@
                     "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/acv75d4i72zlijrbni4abygn2jma_26.7.855.1/-c601e9a4-03b0-4188-843e-80058bf16ef9-_26.7.855.1_all_adfz44ag7lpgtyxjuis7idnqlx2a.crx3",
                     "sha256": "fa667d5497e89139968af83f92d771d56a2b0a12e4762f12ee1d5ca5f7eb123a",
                     "path": "HPE-26.7.855.1-CIP_3pdev_prod.exe"
+                },
+                "26.7.1101.2": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/adt237qaiulidkpqe45kxoaehfzq_26.7.1101.2/-c601e9a4-03b0-4188-843e-80058bf16ef9-_26.7.1101.2_all_pfn5i5iawfakckfo44uevrkyhu.crx3",
+                    "sha256": "7bf5f9af562b2764b78e317030c496dceb2de5fa4dc4cdc6586e42ae4b9a05ec",
+                    "path": "HPE-26.7.1101.2-CIP_3pdev_prod.exe"
                 },
                 "26.8.237.0": {
                     "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/acivkr4s62gebbgt2p5kwyrkdk7a_26.8.237.0/-c601e9a4-03b0-4188-843e-80058bf16ef9-_26.8.237.0_all_jozatpg54fcjamn7de4eje4kj4.crx3",
