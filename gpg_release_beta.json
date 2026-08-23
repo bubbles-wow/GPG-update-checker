@@ -1573,12 +1573,17 @@
         },
         {
             "cohortname": "2026-08.b Experiment",
-            "latest": "26.8.237.0",
+            "latest": "26.8.237.1",
             "versions": {
                 "26.8.237.0": {
                     "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/advktfs4rjl2bdbwix6d6abmvewa_26.8.237.0/-47b07d71-505d-4665-afd4-4972a30c6530-_26.8.237.0_all_adovnaoi276zug7tosxau7mtghta.crx3",
                     "sha256": "3a29198171efa1b4ad9703a233802169527d32b22edd6286c9e03d98eac2c0e4",
                     "path": "HPE-26.8.237.0-CIP.exe"
+                },
+                "26.8.237.1": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/acnrqhystxlzlbeoou2mtowftwfq_26.8.237.1/-47b07d71-505d-4665-afd4-4972a30c6530-_26.8.237.1_all_db7p2zizrmm6kjvfwahsuiezsm.crx3",
+                    "sha256": "d16d153fc19f1621702a9607f823b55c0cff73207bf3ca6d6ab44f4fbfec600e",
+                    "path": "HPE-26.8.237.1-CIP.exe"
                 }
             }
         },
