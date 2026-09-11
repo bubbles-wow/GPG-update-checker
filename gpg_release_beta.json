@@ -1621,12 +1621,17 @@
         },
         {
             "cohortname": "2026-08.d Control",
-            "latest": "26.8.237.2",
+            "latest": "26.8.237.3",
             "versions": {
                 "26.8.237.2": {
                     "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/gxx3if7hyzgwgea227ejrvt2wy_26.8.237.2/-47b07d71-505d-4665-afd4-4972a30c6530-_26.8.237.2_all_g4oibxgrqfrgc3s4yptliis6ha.crx3",
                     "sha256": "2ceebf7f220e2174aed1318a3dbd8305c218bef7e43e5753f8d933a408770230",
                     "path": "HPE-26.8.237.2-CIP.exe"
+                },
+                "26.8.237.3": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/adbkmbdf5syeqrxw4imsdkstjvaq_26.8.237.3/-47b07d71-505d-4665-afd4-4972a30c6530-_26.8.237.3_all_dwrr57tyqmzbo4new23gtlo5oi.crx3",
+                    "sha256": "59a0689fcc9ad6bedafb4084ed9c0220f60f59911e2eea7fc4b168cdbf7534b4",
+                    "path": "HPE-26.8.237.3-CIP.exe"
                 }
             }
         }
