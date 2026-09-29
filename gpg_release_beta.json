@@ -1704,6 +1704,17 @@
                     "path": "HPE-26.9.341.1-CIP.exe"
                 }
             }
+        },
+        {
+            "cohortname": "2026-09.c Experiment",
+            "latest": "26.9.555.0",
+            "versions": {
+                "26.9.555.0": {
+                    "url": "http://edgedl.me.gvt1.com/edgedl/release2/Play/acssjrquwozzcczu7wsrcjfvrs2a_26.9.555.0/-47b07d71-505d-4665-afd4-4972a30c6530-_26.9.555.0_all_adel7cgnv3vqtbit5ohtiviwmcpa.crx3",
+                    "sha256": "f8aa7fa062afd51a6b86b8d08465770b60b4f700976382bbd972b2c720a685a0",
+                    "path": "HPE-26.9.555.0-CIP.exe"
+                }
+            }
         }
     ]
 }
